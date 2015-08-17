@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\classes-21e38f3bd0e8ec6be4c80d26fb9f55bf6d345f52.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-2a6c3c12d40f415e1a62ddb7baf4d79bed086b8b.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\XMLJDOMParser\app\libs\jdom-2.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\jdom-2.0.3-bf9ae3ec0f08aa29a79b474dc7dab16622b06b09.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\workspace\AndroidStudio\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-749cda498b7df41a783df88498430ed7daf2d9a7.jar" />
+    </item>
+
+</items>
